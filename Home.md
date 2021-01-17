@@ -7,18 +7,18 @@
 [comment]: <> (Everyone add a brief intro and link their page in the parentheses section part of the header)
 #### [[Calvin Lee | Calvin Lee]]
 
-#### [Arthur Wang]()
+#### [[Arthur Wang|Arthur Wang]]
 
-#### [Jimin Cheon]()
+#### [[Jimin Cheon | Jimin Cheon]]
 
-#### [Richard Hwang]()
+#### [[Richard Hwang| Richard Hwang]]
 
-#### [Ruichen Li]()
+#### [[Ruichen Li|Ruichen Li]]
 
-#### [Ruihan Zhuang]()
+#### [[Ruihan Zhuang|Ruihan Zhuang]]
 
-#### [Shunkai Yu]()
+#### [[Shunkai Yu|Shunkai Yu]]
 
-#### [Vincent Tu]()
+#### [[Vincent Tu|Vincent Tu]]
 
-#### [Yijie Ruan]()
+#### [[Yijie Ruan|Yijie Ruan]]
