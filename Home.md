@@ -20,7 +20,7 @@
 - Huge gamer nerd
 - Likes to cook
 
-#### [[Ruichen Li|Ruichen Li]]
+#### [Ruichen Li|Ruichen Li](https://github.com/RLinter/rlinter.github.io)
 - 2nd Year Computer Science major
 - Likes to play soccer and hike
 
