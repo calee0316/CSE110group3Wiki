@@ -11,6 +11,8 @@
 #### [[Arthur Wang|Arthur Wang]]
 
 #### [[Jimin Cheon | Jimin Cheon]] 
+- 2nd year Computer Science major 
+- Interested in VR and Unity engine
 
 #### [[Richard Hwang| Richard Hwang]]
 
