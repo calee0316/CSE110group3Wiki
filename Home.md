@@ -10,7 +10,7 @@
 
 #### [[Arthur Wang|Arthur Wang]]
 
-#### [[Jimin Cheon | Jimin Cheon]]
+#### [[Jimin Cheon | Jimin Cheon]] 
 
 #### [[Richard Hwang| Richard Hwang]]
 
@@ -20,6 +20,10 @@
 
 #### [[Shunkai Yu|Shunkai Yu]]
 
-#### [[Vincent Tu|Vincent Tu]]
+#### [[Vincent Tu|Vincent Tu]](https://github.com/v2tu/v2tu.github.io)
+- 3rd Year Mathematics-Computer Science major. 
+- Interested in Unreal Engine 4
+- Likes to play chess, video games, read manga/watch anime, and listen to random music
+- Dream Job is to work in the Video Game Industry 
 
 #### [[Yijie Ruan|Yijie Ruan]]
