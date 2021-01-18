@@ -15,7 +15,10 @@
 - Interested in VR and Unity engine
 
 #### [[Richard Hwang| Richard Hwang]]
-
+- 4th Year Computer Engineering major
+- Part of Triton Gaming (sort of)
+- Huge gamer nerd
+- Likes to cook
 #### [[Ruichen Li|Ruichen Li]]
 
 #### [[Ruihan Zhuang|Ruihan Zhuang]]
