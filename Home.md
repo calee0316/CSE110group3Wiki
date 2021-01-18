@@ -16,6 +16,7 @@
 [comment]: <> (Everyone add a brief intro and link their page in the parentheses section part of the header)
 #### [[Calvin Lee | Calvin Lee]]
 - 3rd year Computer Engineering major. Backend developer of this project. Hobbies include basketball and listening to music. 
+- Huge sneakerhead
 
 #### [[Arthur Wang|Arthur Wang]]
 
