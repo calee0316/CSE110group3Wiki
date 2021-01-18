@@ -27,6 +27,9 @@
 #### [[Ruihan Zhuang|Ruihan Zhuang]]
 
 #### [[Shunkai Yu|Shunkai Yu]]
+- 3rd year computer engineering 
+- Interested in machine learning, CV, and robotics
+- Likes playing board games
 
 #### [Vincent Tu](https://github.com/v2tu/v2tu.github.io)
 - 3rd Year Mathematics-Computer Science major. 
