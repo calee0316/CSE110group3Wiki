@@ -1,7 +1,7 @@
 # Welcome to Team Name's Wiki!
 
 ## Our Theme 
-** Mario **
+**Mario**
 
 ## Values
 - Honesty
