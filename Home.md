@@ -37,6 +37,8 @@
 - Likes to play soccer and hike
 
 #### [[Ruihan Zhuang|Ruihan Zhuang]]
+- 3rd year Mathematics-Computer Science major.
+- Likes animals and keeping pets
 
 #### [[Shunkai Yu|Shunkai Yu]]
 - 3rd year computer engineering 
