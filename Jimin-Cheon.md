@@ -1,6 +1,6 @@
 # Jimin Cheon
 
--A sophomore CS major with an interest in social ethics, VR, and Unity. 
+- A sophomore CS major with an interest in social ethics, VR, and Unity. 
 
 ## Currently taking..
 - CSE110
