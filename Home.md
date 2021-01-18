@@ -1,6 +1,15 @@
 # Welcome to Team Name's Wiki!
 
 ## Our Theme 
+** Mario **
+
+## Values
+- Honesty
+- Punctuality
+- Communication
+- Caring
+- Cooperative
+
 
 ## Meet Our Team Members
 
