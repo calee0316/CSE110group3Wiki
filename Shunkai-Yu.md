@@ -13,5 +13,5 @@ CSE/ECE classes taken:
 - ECE 109
 - ECE 101
 
-# Hobbies
-I like playing board games, i.e. Catan and Werewolf. Interested fields are machine learning, computer vision, and robotics. 
+# Interests
+I like playing board games, i.e. Catan and Werewolf. Interested fields are machine learning, computer vision, and robotics. You can also check out my personal website [here](https://github.com/shunkaiyu/shunkaiyu.github.io/blob/main/shunkaiyu.md).
