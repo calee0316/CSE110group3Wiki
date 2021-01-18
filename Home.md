@@ -14,7 +14,7 @@
 - 2nd year Computer Science major 
 - Interested in VR and Unity engine
 
-#### [[Richard Hwang| Richard Hwang]]
+#### [Richard Hwang](https://github.com/euh006/euh006.github.io/blob/main/index.md)
 - 4th Year Computer Engineering major
 - Part of Triton Gaming (sort of)
 - Huge gamer nerd
