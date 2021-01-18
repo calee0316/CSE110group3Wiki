@@ -19,7 +19,10 @@
 - Part of Triton Gaming (sort of)
 - Huge gamer nerd
 - Likes to cook
+
 #### [[Ruichen Li|Ruichen Li]]
+- 2nd Year Computer Science major
+- Like to play soccer and hike
 
 #### [[Ruihan Zhuang|Ruihan Zhuang]]
 
