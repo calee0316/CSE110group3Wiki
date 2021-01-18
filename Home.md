@@ -19,6 +19,8 @@
 - Huge sneakerhead
 
 #### [[Arthur Wang|Arthur Wang]]
+* 2nd year CS major
+* love music and anime
 
 #### [[Jimin Cheon | Jimin Cheon]] 
 - 2nd year Computer Science major 
