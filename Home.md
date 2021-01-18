@@ -22,7 +22,7 @@
 
 #### [[Ruichen Li|Ruichen Li]]
 - 2nd Year Computer Science major
-- Like to play soccer and hike
+- Likes to play soccer and hike
 
 #### [[Ruihan Zhuang|Ruihan Zhuang]]
 
