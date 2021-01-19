@@ -16,6 +16,6 @@ Significant classes taken:
 - ECE 101
 
 # Hobbies
-My favorite hobby by far, and really my only hobby is basketball. Playing basketball, watching basketball, training for basketball, analyzing basketball, basically anything about basketball I am interested in. My favorite player has always been Kobe Bryant. #RIPMAMBA
+My favorite hobby by far, and really my only hobby is basketball. Playing basketball, watching basketball, training for basketball, analyzing basketball, basically anything about basketball I am interested in. My favorite player has always been Kobe Bryant. #RIPMAMBA I am also a huge sneakerhead, love Jordans and Kobes. 
 
-Living in Korea for the past 9 years, most of my interests in terms of entertainment (TV shows, music) tend to be Korean. Some of my favorite singers include 박효신 (Park Hyo-shin) and 정승환 (Jung Seung-hwan)
+Living in Korea for the past 9 years, most of my interests in terms of entertainment (TV shows, music) tend to be Korean. Some of my favorite singers include 박효신 (Park Hyo-shin) and 정승환 (Jung Seung-hwan). I also like to read Korean webtoons. 
