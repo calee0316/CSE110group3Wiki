@@ -51,4 +51,7 @@
 - Likes to play chess, video games, read manga/watch anime, and listen to random music
 - Dream Job is to work in the Video Game Industry 
 
-#### [[Yijie Ruan|Yijie Ruan]]
+#### [[Yijie Ruan|Yijie Ruan]](https://yijieruan.github.io/)
+- 2nd Year Computer Science Major.
+- Interested in machine learning, game design, and VR
+- Likes watching anime and playing video game.
