@@ -1,4 +1,4 @@
-# Welcome to Team Name's Wiki!
+# Welcome to Internet Bowser's Wiki!
 
 ## Our Theme 
 **Mario**
