@@ -14,4 +14,4 @@
 - Video games
 - Stocks, Dogecoin yolo, wsb 
 
-## A young man just trying to survive in this though world.. 
+## ~~A young man just trying to survive in this though world..~~ 
