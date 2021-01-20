@@ -1,5 +1,6 @@
 # About me 
 - I'm a sophomore CS major returning to UCSD after a two year break
+- Currently in Korea, trying to return home
 
 # Classes I am currently taking
 - CSE167
@@ -14,4 +15,4 @@
 - Video games
 - Stocks, Dogecoin yolo, wsb 
 
-## ~~A young man just trying to survive in this though world..~~ 
+## ~~A young man just trying to survive in this tough world..~~ 
