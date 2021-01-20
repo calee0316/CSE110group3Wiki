@@ -2,7 +2,7 @@
 - I'm a sophomore CS major returning to UCSD after a two year break
 - Currently in Korea, trying to return home
 
-# Classes I am currently taking
+# My Current Classes 
 - CSE167
 - CSE110
 - CSE105
