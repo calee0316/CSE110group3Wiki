@@ -14,5 +14,6 @@
 - Sleeping
 - Video games
 - Stocks, Dogecoin yolo, wsb 
+- Reading about social ethics and philosophy 
 
 ## ~~A young man just trying to survive in this tough world..~~ 
