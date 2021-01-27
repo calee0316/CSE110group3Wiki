@@ -7,3 +7,6 @@ In our Pomodoro Timer, we have a default work period of 25 minutes and a default
 After 4 consecutive Pomos, a longer break is given, usually of 15-30 minutes. This longer break is given only when 4 consecutive work-rest cycles have been completed. Stopping the timer will not preserve the number of cycles completed, it will reset the number back to 0.
 
 In order to keep the concept and theme of focus, no sounds or changes in the page will happen during the 25 minutes of work. Only the timer will countdown. Once the 25 minutes are up, a sound will be played as a reminder to stop working and take a break, alongside a visual cue. The same will be done when the break is completed. 
+
+References:
+Pomodoro Technique info: https://francescocirillo.com/pages/pomodoro-technique
