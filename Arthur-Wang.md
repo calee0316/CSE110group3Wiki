@@ -3,6 +3,8 @@ Hi, I'm Arthur Wang, a second-year student at UCSD. I'm born and raised in China
 
 # Education
 Second-year computer engineering major at UC San Diego. 
+
+
 classes taken and currently taking:
 - CSE 8A 8B
 - CSE 12
