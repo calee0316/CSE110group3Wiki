@@ -9,5 +9,4 @@ After 4 consecutive Pomos, a longer break is given, usually of 15-30 minutes. Th
 In order to keep the concept and theme of focus, no sounds or changes in the page will happen during the 25 minutes of work. Only the timer will countdown. Once the 25 minutes are up, a sound will be played as a reminder to stop working and take a break, alongside a visual cue. The same will be done when the break is completed. 
 
 References:
-
-Pomodoro Technique info: https://francescocirillo.com/pages/pomodoro-technique
+- Pomodoro Technique info: https://francescocirillo.com/pages/pomodoro-technique
