@@ -1,5 +1,7 @@
 # Welcome to Internet Bowser's Wiki!
 
+## [[About Pomodoro Technique | About Pomodoro Technique]]
+
 ## Our Theme 
 **Mario**
 
