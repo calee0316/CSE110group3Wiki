@@ -9,4 +9,6 @@ For Documentation generation, we are using JSDocs. Our pipeline will install nod
 ## Linting
 We are using ESLint to lint our JavaScript files and stylelint to lint our CSS files. Our pipeline installs ESLint and stylelint, then runs ESLint on all files ending in .js in the timer directory. Then stylelint is run on all css files in the css directory.
 
+
+## Diagram of pipeline workflow
 [[https://github.com/calee0316/cse110-w21-group3/blob/main/admin/pipeline/diagram.png]]
