@@ -1,4 +1,3 @@
-# Team Internet Bowser
 
 ## Testing
 For the testing part of our pipeline we decided to use Jest. Our pipeline installs jest, then finds all files in the timer directory that end in test.js. It will run all these test files and show the resuls.
