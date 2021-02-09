@@ -1,4 +1,6 @@
 # CI/CD Pipeline
+Our CI/CD Pipeline is done in GitHub Actions using .yml files that our Dev team was able to implement. The tools we used in each of these files is specified below. 
+
 ## Testing
 For the testing part of our pipeline we decided to use Jest. Our pipeline installs jest, then finds all files in the timer directory that end in test.js. It will run all these test files and show the resuls.
 
