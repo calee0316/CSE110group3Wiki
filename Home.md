@@ -2,7 +2,7 @@
 
 ## [[About Pomodoro Technique]]
 
-## [[CI/CD Pipeline | CICD Pipeline]]
+## [[CI/CD Pipeline | CI CD Pipeline]]
 
 ## Our Theme 
 **Mario**
