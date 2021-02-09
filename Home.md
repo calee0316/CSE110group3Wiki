@@ -1,6 +1,8 @@
 # Welcome to Internet Bowser's Wiki!
 
-## [[About Pomodoro Technique | About Pomodoro Technique]]
+## [[About Pomodoro Technique]]
+
+## [[CI/CD Pipeline | CICD Pipeline]]
 
 ## Our Theme 
 **Mario**
